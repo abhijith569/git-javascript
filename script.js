@@ -1,0 +1,11 @@
+var name = 'Abhijith';
+console.log(`Hello my name is ${name}`);
+var number =5;
+var result1= number*2;
+console.log(`multiplied result of the number by 2 =: ${result1}`);
+var result2= result1*5;
+console.log(`Divided result of the number by 5 =: ${result2}`);
+var result3= result2/number;
+console.log(`Divided result of the resulted number by first number =: ${result3}`);
+var result4= result3 -7;
+console.log(`Subtracted 7 from result=: ${result4}`);
